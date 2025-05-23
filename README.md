@@ -31,3 +31,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShawnWx2019)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShawnWx2019&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShawnWx2019)](https://git.io/streak-stats)
